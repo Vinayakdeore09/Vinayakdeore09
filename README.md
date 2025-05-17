@@ -20,47 +20,43 @@ GitHub Profile
 
 ## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/aws-F29111?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-1A73E8?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/apache%20spark-F0C500?style=for-the-badge&logo=apachespark&logoColor=black)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
 
-![Sajid Kassari's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajid-Kassari&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajid-Kassari&theme=highcontrast&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-Kassari&layout=compact&theme=highcontrast)
-
----
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-09&show_icons=true&theme=dark&hide_border=true)  
+![Vinayak's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-09&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vinayak-09&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sajid-Kassari&theme=juicyfresh&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vinayak-09&theme=juicyfresh&no-bg=true&no-frame=true&row=1)
 
 ## 💬 Random Dev Quote:
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🚀 Top Contributed Repo:
+
+| Repository | Description | Stars |
+| --- | --- | --- |
+| [Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) | Personal portfolio website with chat UI. | 167 ⭐ |
+| [women-safety-android](https://github.com/Vinayak-09/women-safety-android) | Android app for women's safety. | 67 ⭐ |
+| [telegrambot-for-instagram](https://github.com/Vinayak-09/telegrambot-for-instagram) | Telegram bot to download Instagram profile pics. | 62 ⭐ |
+| [Spark-Women](https://github.com/Vinayak-09/Spark-Women) | Android app for women's safety. | 14 ⭐ |
 
 [![Auto-Form-Filler-ai](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Auto-Form-Filler-ai)](https://github.com/Sajid-Kassari/Auto-Form-Filler-ai)
 [![YouTube-to-Blog-Generator-AI-Backend](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=YouTube-to-Blog-Generator-AI-Backend)](https://github.com/Sajid-Kassari/YouTube-to-Blog-Generator-AI-Backend)
