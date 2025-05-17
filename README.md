@@ -49,17 +49,3 @@ GitHub Profile
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🚀 Top Contributed Repo:
-
-| Repository | Description | Stars |
-| --- | --- | --- |
-| [Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) | Personal portfolio website with chat UI. | 167 ⭐ |
-| [women-safety-android](https://github.com/Vinayak-09/women-safety-android) | Android app for women's safety. | 67 ⭐ |
-| [telegrambot-for-instagram](https://github.com/Vinayak-09/telegrambot-for-instagram) | Telegram bot to download Instagram profile pics. | 62 ⭐ |
-| [Spark-Women](https://github.com/Vinayak-09/Spark-Women) | Android app for women's safety. | 14 ⭐ |
-
-[![Auto-Form-Filler-ai](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Auto-Form-Filler-ai)](https://github.com/Sajid-Kassari/Auto-Form-Filler-ai)
-[![YouTube-to-Blog-Generator-AI-Backend](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=YouTube-to-Blog-Generator-AI-Backend)](https://github.com/Sajid-Kassari/YouTube-to-Blog-Generator-AI-Backend)
-[![YouTube-to-Blog-Generator-Using-AI](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=YouTube-to-Blog-Generator-Using-AI)](https://github.com/Sajid-Kassari/YouTube-to-Blog-Generator-Using-AI)
-[![Job-Recommendation-System-using-NLP-and-Flask](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Job-Recommendation-System-using-NLP-and-Flask)](https://github.com/Sajid-Kassari/Job-Recommendation-System-using-NLP-and-Flask)
-[![Sleep-Disorder-Prediction](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Sleep-Disorder-Prediction)](https://github.com/Sajid-Kassari/Sleep-Disorder-Prediction)
