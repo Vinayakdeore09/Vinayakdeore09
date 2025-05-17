@@ -42,6 +42,28 @@ GitHub Profile
 
 ## 📊 GitHub Stats:
 
-<!-- Add your GitHub stats here using GitHub Readme Stats or similar tools -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Sajid Kassari's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajid-Kassari&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajid-Kassari&theme=highcontrast&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-Kassari&layout=compact&theme=highcontrast)
+
+---
+
+## 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sajid-Kassari&theme=juicyfresh&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💬 Random Dev Quote:
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🚀 Top Contributed Repo:
+
+[![Auto-Form-Filler-ai](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Auto-Form-Filler-ai)](https://github.com/Sajid-Kassari/Auto-Form-Filler-ai)
+[![YouTube-to-Blog-Generator-AI-Backend](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=YouTube-to-Blog-Generator-AI-Backend)](https://github.com/Sajid-Kassari/YouTube-to-Blog-Generator-AI-Backend)
+[![YouTube-to-Blog-Generator-Using-AI](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=YouTube-to-Blog-Generator-Using-AI)](https://github.com/Sajid-Kassari/YouTube-to-Blog-Generator-Using-AI)
+[![Job-Recommendation-System-using-NLP-and-Flask](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Job-Recommendation-System-using-NLP-and-Flask)](https://github.com/Sajid-Kassari/Job-Recommendation-System-using-NLP-and-Flask)
+[![Sleep-Disorder-Prediction](https://github-contributor-stats.vercel.app/api/contributions?user=Sajid-Kassari&repo=Sleep-Disorder-Prediction)](https://github.com/Sajid-Kassari/Sleep-Disorder-Prediction)
