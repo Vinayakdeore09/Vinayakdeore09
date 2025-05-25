@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Vinayak Deore
 
+---
+
 **Final Year Computer Engineering Student at VCET (Graduating 2025)**
 
+---
 <!-- About Me Section -->
 ## 🦄 About Me:
 
